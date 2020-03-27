@@ -1,0 +1,112 @@
+h1{
+    font-size: 48px;
+    text-align: center;
+    color: White;
+    background-color: rgb(56,56,56);
+    border: groove 2px rgb(17, 17, 17);
+    padding: 8px;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 6px 6px 0px rgb(75, 75, 75);
+    }
+body{
+    color: white;
+    background-color: rgb(26, 26, 26);
+    margin-left: 80px;
+    margin-right: 80px;
+    }
+h2{
+    font-size: 28px;
+    text-align: center;
+    color: white;
+    background-color: rgb(31, 31, 31);
+    }
+h3{
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    background-color: rgb(26, 26, 26);
+    }
+a{color: rgb(187, 187, 187); }
+.images_centre{
+    border: groove 2px black;
+    border-radius: 5px 5px 5px 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    font-size: 20px;
+    text-align: left ;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bordure1{
+    border: groove 2px rgb(17, 17, 17);
+    padding: 8px;
+    border-radius: 15px 15px 15px 15px;
+    background-color : rgb(34, 34, 34);
+    box-shadow: 6px 6px 0px rgb(75, 75, 75);
+    border-spacing: 5px 10px;
+    margin-bottom: 20px;
+    }
+.bordure2{
+    border: groove 2px rgb(17, 17, 17);
+    padding: 8px;
+    border-radius: 15px 15px 15px 15px;
+    background-color : rgb(56, 56, 56);
+    box-shadow: 6px 6px 0px rgb(75, 75, 75);
+    border-spacing: 5px 10px;
+    }
+.sources{
+    font-size: 16px;
+    text-align: left ;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bordure3{
+    display: inline-block;
+    border: groove 2px rgb(17, 17, 17);
+    padding: 8px;
+    border-radius: 15px 15px 15px 15px;
+    background-color : rgb(34, 34, 34);
+    box-shadow: 6px 6px 0px rgb(75, 75, 75);
+    border-spacing: 5px 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 680px;
+}
+.bordure4{
+    display: inline-block;
+    border: groove 2px rgb(17, 17, 17);
+    padding: 8px;
+    border-radius: 15px 15px 15px 15px;
+    background-color : rgb(34, 34, 34);
+    box-shadow: 6px 6px 0px rgb(75, 75, 75);
+    border-spacing: 5px 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 900px;
+}
+video{
+    display: flex;
+    margin-top: 10px;
+    border: solid black;
+    border-radius: 3px 3px 3px 3px;
+    border-width: 2px;
+}
+td{
+
+   border: solid black;
+   background-color: rgb(56,56,56);
+   border-radius: 3px 3px 3px 3px;
+   border-width: 2px;
+}
+table{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{text-align: center;}
+
+.vid{display:block; width:480px; margin:0 auto 35px auto}
+
